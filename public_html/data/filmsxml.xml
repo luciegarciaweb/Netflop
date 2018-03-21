@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<netflop>
+    <films>
+        <film id="1">            
+            <titre>Thor</titre>
+            <description> </description>
+            <bandeannonce>https://www.youtube.com/embed/JOddp-nlNvQ</bandeannonce>
+            <image>imgfilms/thor.jpg</image>
+        </film>
+        <film id="2">
+            <titre> Les Tuche</titre>
+            <description> </description>
+            <bandeannonce> https://www.youtube.com/watch?v=HjWVhYlM9Zk</bandeannonce>
+            <image>imgfilms/tuche1.jpg</image>
+        </film>
+        <film id="3">
+            <titre>Les Tuche 2</titre>
+            <description> </description>
+            <bandeannonce> https://www.youtube.com/watch?v=lEj47R3rbO4 </bandeannonce>
+            <image>imgfilms/tuche2.jpg</image>
+        </film>
+        <film id="4">
+            <titre>Les Tuche 3</titre>
+            <description> </description>
+            <bandeannonce>https://www.youtube.com/embed/jC30sCMTdlE</bandeannonce>
+            <image>imgfilms/tuche3.jpg </image>
+        </film>
+       
+    </films>
+    <series>
+        <serie>
+            <titre> </titre>
+        </serie>
+    </series>
+        
+
+</netflop>
